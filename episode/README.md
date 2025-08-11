@@ -1,6 +1,7 @@
 ## Specific Episode Query
 
 **Endpoint:**
+[Rick and Morty Endpoint](https://rickandmortyapi.com/graphql)
 
 **Description:**
 This query retrieves details of a specific episode from the Rick and Morty API using the `episode(id: ID!)` field.
